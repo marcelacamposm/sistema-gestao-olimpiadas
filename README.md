@@ -1,8 +1,8 @@
-# Sistema de Gestão de Olimpíadas (SGO)
+# Sistema de Gestão de Olimpíadas
 
 **Autores:**
 * João Pedro Peres Barbosa
-* Marcela Mendes Campos
+* Marcela Mendes Campos 
 
 ## 1. Descrição do Projeto
 
