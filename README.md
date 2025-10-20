@@ -52,8 +52,6 @@ A seguir, são apresentados os **diagramas UML** que modelam a arquitetura e o c
 
 O diagrama de caso de uso descreve as principais interações entre os atores (**Organizador**, **Atleta**, **Juiz**) e o sistema, detalhando as funcionalidades principais.
 
-> **Atenção:** Substitua a URL abaixo pela imagem correspondente no seu repositório GitHub.
-
 ![Diagrama de Caso de Uso](imagens/diagrama-de-caso-de-uso.png)
 
 ---
@@ -63,8 +61,6 @@ O diagrama de caso de uso descreve as principais interações entre os atores (*
 Este diagrama modela a estrutura estática do sistema, incluindo as principais classes (`Competicao`, `Atleta`, `Local`, `Pais`, `Resultado`) e seus relacionamentos.  
 Os pacotes organizam as classes por responsabilidade, como **core**, **gestao** e **relatorios**.
 
-> **Atenção:** Substitua a URL abaixo pela imagem correspondente no seu repositório GitHub.
-
 ![Diagrama de Classes e Pacotes](imagens/diagrama-de-classes.png)
 
 ---
@@ -73,8 +69,6 @@ Os pacotes organizam as classes por responsabilidade, como **core**, **gestao** 
 
 O diagrama de componentes ilustra a organização lógica do sistema, mostrando os principais módulos de software (**Interface de Usuário**, **Módulo de Inscrições**, **Módulo de Alocação**, etc.) e as dependências entre eles.
 
-> **Atenção:** Substitua a URL abaixo pela imagem correspondente no seu repositório GitHub.
-
 ![Diagrama de Componentes](imagens/diagrama-de-componentes.png)
 
 ---
@@ -82,8 +76,6 @@ O diagrama de componentes ilustra a organização lógica do sistema, mostrando 
 ### 3.4. Diagrama de Implantação (Deployment)
 
 Este diagrama descreve a arquitetura física do sistema, mostrando como os componentes de software são distribuídos no hardware — incluindo **servidores de aplicação**, **servidores de banco de dados** e **dispositivos dos clientes**.
-
-> **Atenção:** Substitua a URL abaixo pela imagem correspondente no seu repositório GitHub.
 
 ![Diagrama de Implantação](imagens/diagrama-de-implantacao.png)
 
